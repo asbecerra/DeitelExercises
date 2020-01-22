@@ -11,13 +11,13 @@ public class Product {
 		int z;
 		int product;
 
-		System.out.println("Enter de value for x");
+		System.out.println("Enter the value for x");
 		x = enter.nextInt();
 
-		System.out.println("Enter de value for y");
+		System.out.println("Enter the value for y");
 		y = enter.nextInt();
 
-		System.out.println("Enter de value for z");
+		System.out.println("Enter the value for z");
 		z = enter.nextInt();
 
 		product = x*y*z;
