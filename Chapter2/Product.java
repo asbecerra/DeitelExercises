@@ -1,8 +1,8 @@
-import java.uti1.Scanner;
+import java.util.Scanner;
 //calculate the product of three numbers
 public class Product {
 
-	public static void main (Strings[] args) {
+	public static void main (String[] args) {
 	
 		Scanner enter = new Scanner(System.in);
 
@@ -22,7 +22,7 @@ public class Product {
 
 		product = x*y*z;
 
-		System.out.println("The product is %d/n", product);
+		System.out.printf("The product is %d\n", product);
 
 	}
 }

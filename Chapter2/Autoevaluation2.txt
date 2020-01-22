@@ -35,12 +35,12 @@ System.out.println("This is a Java program");
 e) Imprimir "Este es un programa en 3ava” en dos líneas de la ventana de comandos. La primera línea debe
 terminarcones un.UseelmétodoSystem.out.println.
 
-System.out.println("This is a /n Java program");
+System.out.println("This is a \n Java program");
 
 f) Imprimir "Este es un programa en lava” en dos líneas de la ventana de comandos.La primera línea
 debeterminarcones un.UseelmétodoSystem,out.printfydosespecificadoresdeformato%s. 
 
-System.out.printf(%s/%s/n, "This is a", "Java program");
+System.out.printf(%s\%s\n, "This is a", "Java program");
 
 
 g) Silavariablenumeronoesigualque7,mostrar“La variable numero no es igual que 7”.
@@ -103,7 +103,7 @@ product = x*y*z;
 
 k) Mostrarelmensaje"El producto es ”,seguidodelvalordelavariableresultado.
 
-System.out.println("The product of x,y,z is %d /n", product);
+System.out.println("The product of x,y,z is %d \n", product);
 
 
 2.6
