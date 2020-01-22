@@ -1,10 +1,8 @@
 import java.uti1.Scanner;
+//calculate the product of three numbers
+public class Product {
 
-public class Product;       //calculate the product of three numbers
-
-{
-
-	public static void main (Strings[] args); {
+	public static void main (Strings[] args) {
 	
 		Scanner enter = new Scanner(System.in);
 
