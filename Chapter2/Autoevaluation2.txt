@@ -1,0 +1,113 @@
+Complete las siguientes oraciones:
+a) Elcuerpodecualquiermétodocomienzaconun(a)____llave____yterminaconun(a)___llave______
+b) La instrucción_____if___ seutiliza para tomar decisiones.
+c) ______//__indicaeliniciodeuncomentariodefindelínea.
+d) ________,_________y_________seconocencomoespacioenblanco.
+e) Las_____palabras clasves___estánreservadasparasuusoenJava.
+f) LasaplicacionesenJavacomienzansuejecuciónenelmétodo_____main____
+g) Losmétodos____print____,__printf______ y__println_______muestraninformaciónenunaventanadecomandos.
+
+2.
+diante las reglas de precedencia de los operadores (pág. 54).
+2.2 Indiquesicadaunadelassiguientesinstruccionesesverdaderaofalsa.Siesfalsa,expliqueporqué.
+a) Loscomentarioshacenquelacomputadoraimprimaeltextoquevadespuésdeloscaracteres//enlapantalla,
+al ejecutarse el programa.  Falso, por el compiador los ignora. documetan código
+b) Todaslasvariablesdebenrecibiruntipocuandosedeclaran.  V
+c) Javaconsideraquelasvariablesnumero y NuMeRo son idénticas. F, porque una posee mayúsculas la otra no
+d) Eloperadorresiduo(%)puedeutilizarsesolamenteconoperandosenteros. F, con cualquier número
+e) Losoperadoresaritméticos*,/,%,+y- tienentodoselmismoniveldeprecedencia. no. primero * / % + y -
+
+2.3 Escriba instrucciones para realizar cada una de las siguientes tareas:
+a) Declararlasvariablesc,estaEsUnaVariable,q76354ynumerocomodetipoint. int c, estaEsUnaVariable,  q76354, 56;
+b) Pediralusuarioqueintroduzcaunentero.  System.out.println("Write an int number");
+c) Recibir un entero como entrada y asignar el resultado a la variable i nt val or. Suponga que se puede utilizar lavariableentrada tipoScanner pararecibirunvalordelteclado.
+
+System.out.println("Write an int number");
+value = enter.nextInt();
+
+
+d) Imprimir "Este es un programa en Java” en una línea de la ventana de comandos.Use el método
+System.out .println.
+
+System.out.println("This is a Java program");
+
+
+e) Imprimir "Este es un programa en 3ava” en dos líneas de la ventana de comandos. La primera línea debe
+terminarcones un.UseelmétodoSystem.out.println.
+
+System.out.println("This is a /n Java program");
+
+f) Imprimir "Este es un programa en lava” en dos líneas de la ventana de comandos.La primera línea
+debeterminarcones un.UseelmétodoSystem,out.printfydosespecificadoresdeformato%s. 
+
+System.out.printf(%s/%s/n, "This is a", "Java program");
+
+
+g) Silavariablenumeronoesigualque7,mostrar“La variable numero no es igual que 7”.
+
+if (number != 7)
+	System.out.println("The variable number it's differente from 7");
+
+
+2.4 Identifique y corrija los errores en cada una de las siguientes instrucciones: 
+a) if (c<7); error (;) al final de instrucci'on if
+System.out.printlnC “c es menor que 7” );  System.out.println("c es menor que 7");
+
+b) if (c->7)  no se escribi'o apropiadamente la sentencia if (c>=7)
+System.out.printlnC “c es igual o mayor que 7” );  >>>>>>.  System.out.println("c es igual o mayor que 7");
+
+2.5
+Escribadeclaraciones,instruccionesocomentariospararealizarcadaunadelassiguientestareas: 
+
+
+a) Indicar que un programa calculará el producto de tres enteros.
+
+//Calcula el producto de tres enteros
+
+b) Crear un objeto Scanner llamado entrada que lea valores de la entrada estándar.
+
+  Scanner enter =  new Scanner(System.In);
+
+c) Declarar las variables x, y, z y resu 1tado de tipo i nt.
+
+int x, y, z;
+
+d) Pediralusuarioqueescribaelprimerentero.
+
+System.out.println("Write x value");
+
+e) Leerelprimerenterodelusuarioyalmacenarloenlavariablex.  
+x = enter.nextInt();
+
+f) Pedir al usuario que escriba el segundo entero.
+
+System.out.println("Write y value");
+
+g) Leer el segundo entero del usuario y almacenarlo en la variable y.
+
+y = enter.nextInt();
+
+h) Pediralusuarioqueescribaeltercerentero.
+
+
+System.out.println("Write z value");
+
+i) Leer el tercer entero del usuario y almacenarlo en la variable z.
+
+z = enter.nextInt();
+
+j) Calcular el producto de los tres enteros contenidos en las variables x, y y z, y asignar el resultado a la variable
+resultado.
+
+product = x*y*z;
+
+k) Mostrarelmensaje"El producto es ”,seguidodelvalordelavariableresultado.
+
+System.out.println("The product of x,y,z is %d /n", product);
+
+
+2.6
+el producto de tres enteros.
+Utilice las instrucciones que escribió en el ejercicio 2.5 para escribir un programa completo que calcule e imprima
+
+
