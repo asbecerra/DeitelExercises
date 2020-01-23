@@ -1,0 +1,33 @@
+2.8. 
+a. System.out.print("Write an int number");
+
+b. a = b*c;
+
+c. //Calcula  nómina de muestra
+
+2.10. x = 2, y = 3  respuesta de las siguientes instrucciones>
+
+a. x = 2
+
+b. El valor de 2 + 2 es 4 
+
+c. x =
+
+d. 5 + 5
+
+2.12. y = ax^3 + 7
+
+c.
+
+2.20 
+***************
+
+2.22 
+
+****
+*****
+******
+
+
+
+
