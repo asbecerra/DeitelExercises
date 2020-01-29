@@ -79,3 +79,16 @@ son de tipo f 1oat de manera predeterminada.
  
 3.5 Explique el propósito de un parámetro de un método. ¿Cuál es la diferencia entre un parámetro y un argumento? paramerto, infotmaci'on que requiere el metodo para poder ejecutarse
 parametro es el tipo y nombre de la variable que se necesita para ejecutar el m'etodo, y el argumento , es el valor espec'ifico que se le da a los par'ametros
+
+3.5 (Palabraclavenew)¿Cuál es el propósito de l a palabra clave new ? Explique lo que ocurre cuando se utiliza en una aplicación. Solicita espacio de memoria al sistema para guardar un objeto. Cuando se utiliza en una aplicación, llama al constructor de la clase correspondiente para inicializarlo
+
+3.6 (Constructores predeterminados) ¿Qué es un constructor predeterminado? ¿Cómo se inicializan las variables de instancia de un objeto, si una clase sólo tiene un constructor predeterminado? ES aquel constructor que proporciona el compilador, cuando no se ha de finido uno dentro de la clase, éste constructor viene sin parámetros, por tanto las variables se inicializan con sus valores  predeterminada.
+
+3.7 (Variables de instancia)Explique el propósito de una variable de instancia. Las variables de instancia, son aquellas cuyos atributos 
+
+
+3 .8 (Usar clases sin importarlas) La mayoría de las clases necesitan importarse antes de poder utilizarlas en una aplicación ¿Por qué cualquier aplicación puede utilizar las clases S y s tem y S t r i ng sin tener que importarlas primero? porque hacen parte del paquete java.lang, que se importa de manera impícita en todos los archivos de código fuente
+
+3.9 (Usar una clase sin importarla)Explique cómopodría un programa utilizar la claseScanner sin importarla.
+
+3.10 (Métodos establecery obtener) Explique por qué una clase podría proporcionar un método establecer y un método obtener para una variable de instancia. 
