@@ -1,5 +1,6 @@
 public class Bill {
-	private String pieceCode;
+	//variables de instancia
+	private String pieceCode;      
 	private String desciption;
 	private int quantity;
 	private double price;
