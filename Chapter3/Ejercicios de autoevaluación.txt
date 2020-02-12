@@ -1,0 +1,94 @@
+Ejercicios de autoevaluación
+3.2 Complete las siguientes oraciones:
+a) Cada declaración de clase que empieza con la palabra clave__public_____debealmacenarseenunarchivoque
+tenga exactamente el mismo nombre de la clase, y que termine con la extensión de nombre de archivo . 
+java. 
+b) En la declaración de una clase, la palabra clave_class____va seguida inmediatamente por el nombre de la clase.
+ 
+ c) Lapalabraclave____new___ solicitamemoriadelsistemaparaalmacenarunobjeto,ydespuésllamaalconstruc­
+tor de la clase correspondiente para inicializarlo.
+
+d) Cadaparámetrodebeespecificarun(a)____tipo___ y un(a)_nombre de variable________
+
+e) De manera predeterminada, se considera que las clases que se compilan en el mismo directorio están en el
+mismo paquete, conocido como____predeterminado____
+
+f) Cuandocadaobjetodeunaclasemantienesupropiacopiadeunatributo,elcampoquerepresentaaeste atributoseconocetambiéncomo___instancia_____
+
+g) Javaproporcionadostiposprimitivosparaalmacenarnúmerosdepuntoflotanteenlamemoria:___float_____y double
+
+h) Lasvariablesdetipodoublerepresentanalosnúmerosdepuntoflotante________
+
+i) Elmétodo__nextDouble_____ delaclaseScannerdevuelveunvalordouble.
+
+j) La palabra clave publ1c es un_____public__deacceso.
+
+k) Eltipodevalorderetomo_____void___indica que un método no devolverá un valor.
+
+1) Elmétodo_____nextLine___deScannerleecaractereshastaencontrarunanuevalíneaydespuésdevuelveesos
+caracteres como un objeto Stri ng.
+
+m) LaclaseStringestáenelpaquete__lang______
+n) Noserequiereun(a)___import_____sisiemprehacemosreferenciaaunaclaseconsunombrecompletamente
+calificado.
+
+0) Un(a)____float____esun número con un punto decimal, como 7.33,0.0975 o 1000.12345. 
+p) 
+Lasvariablesdetipofloatrepresentannúmerosdepuntoflotante________
+q) Elespecificadordeformato____%.#f____seutilizaparamostrarvaloresdetipofloato double.
+r) LostiposenJavasedividenendoscategorías:tipos__primitivos______
+y
+tipos___referencia_____
+
+
+3.3 Contesteconverdaderoofalsoacadaunadelassiguientesproposiciones;encasodeserfalso,expliqueporqué.
+
+a) Por convención, los nombres de los métodos empiezan con la primera letra en mayúscula, en el nombre
+todas las palabras subsiguientes comienzan con la primera letra en mayúscula. Falso, min'uscula
+
+b) Unadeclaraciónimportnoesobligatoriacuandounaclaseenunpaqueteutilizaaotraenelmismopaquete. verdader
+
+c) Losparéntesisvacíosquevandespuésdelnombredeunmétodoensudeclaraciónindicanquenorequiere
+parámetros para realizar su tarea.  verdader
+
+d) Las variables o los métodos declarados con el modificador de acceso p r i v a t e son accesibles sólo para los
+métodos de la clase en la que se declaran. verdadero
+
+e) Unavariabledetipoprimitiv opuede usarse para invocar un método.
+
+f) Las variables que se declaran en el cuerpo de un método específico se conocen como variables de instancia,
+y pueden utilizarse en todos los métodos de la clase. falso. son varibles locales
+
+g) El cuerpo de cada método está delimitado por llaves izquierda y derecha ({ y }). verdadero
+
+h) Las variables locales de tipo primitivo se inicializan de manera predeterminada. falso, las variables de instancia de tipo primitivo, s'i se inicializan predeterminadamente 0, y false
+
+0 Las variables de instancia de tipo por referencia se inicializan de manera predeterminada con el valor n u l l . verdadero
+
+
+j) Cualquier clase que contenga public s ta tic void main( String[] args ) puede usarse para ejecutar una
+aplicación. verdadero
+
+k) El número de argumentos en la llamada a un método debe coincidir con el de parámetros en la lista de pará­
+metros de la declaración del método.  verdadero
+
+1) Los valores de punto flotante que aparecen en código fuente se conocen como literales de punto flotante, y
+son de tipo f 1oat de manera predeterminada.
+
+3.4 ¿Cuál es la diferencia entre una variable local y un campo? la variable local, se declara dentro del metodo y la variable de campo es la que se declara dentro de la clase 
+ 
+3.5 Explique el propósito de un parámetro de un método. ¿Cuál es la diferencia entre un parámetro y un argumento? paramerto, infotmaci'on que requiere el metodo para poder ejecutarse
+parametro es el tipo y nombre de la variable que se necesita para ejecutar el m'etodo, y el argumento , es el valor espec'ifico que se le da a los par'ametros
+
+3.5 (Palabraclavenew)¿Cuál es el propósito de l a palabra clave new ? Explique lo que ocurre cuando se utiliza en una aplicación. Solicita espacio de memoria al sistema para guardar un objeto. Cuando se utiliza en una aplicación, llama al constructor de la clase correspondiente para inicializarlo
+
+3.6 (Constructores predeterminados) ¿Qué es un constructor predeterminado? ¿Cómo se inicializan las variables de instancia de un objeto, si una clase sólo tiene un constructor predeterminado? ES aquel constructor que proporciona el compilador, cuando no se ha de finido uno dentro de la clase, éste constructor viene sin parámetros, por tanto las variables se inicializan con sus valores  predeterminada.
+
+3.7 (Variables de instancia)Explique el propósito de una variable de instancia. Las variables de instancia, son aquellas cuyos atributos 
+
+
+3 .8 (Usar clases sin importarlas) La mayoría de las clases necesitan importarse antes de poder utilizarlas en una aplicación ¿Por qué cualquier aplicación puede utilizar las clases S y s tem y S t r i ng sin tener que importarlas primero? porque hacen parte del paquete java.lang, que se importa de manera impícita en todos los archivos de código fuente
+
+3.9 (Usar una clase sin importarla)Explique cómopodría un programa utilizar la claseScanner sin importarla.
+
+3.10 (Métodos establecery obtener) Explique por qué una clase podría proporcionar un método establecer y un método obtener para una variable de instancia. 
