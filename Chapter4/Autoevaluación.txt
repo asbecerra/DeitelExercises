@@ -1,0 +1,108 @@
+Autoevaluación
+4 .1
+Complete los siguientes enunciados:
+a) Todos los programas pueden escribirse en términos de tres tipos de estructuras de control: __secuencia______ ,--control-----y.----repetición---------
+
+b) La instrucción se utiliza para ejecutar una acción cuando una condición es verdadera, y otra
+cuando esa es falsa. if - else
+
+c) Al proceso de repetir un conjunto de instrucciones un número específico de veces se le llama repetición __definida____
+
+d) Cuando no se sabe de antemano cuántas veces se repetirá un conjunto de instrucciones, se puede usar un valor____centinela____ para terminar la repetición.
+
+e) La estructura está integrada en Java; de manera predeterminada, las instrucciones se ejecutan en el orden en el que aparecen. ___secuencial___
+
+f) Todas las variables de instancia de los tipos char,byte,short,int,long,float y double reciben el valor ___0_____ de manera predeterminada.
+
+g) Javaesunlenguaje_____tipificado___;requiere que todas las variables tengan un tipo.
+
+h) Si el operador de incremento se____coloca antes_____de una variable, ésta se incrementa en 1 primero, y después su
+nuevo valor se utiliza en la expresión.
+
+4.2
+Contestecon verdadero o falsoa cada una de las siguientes proposiciones; en caso de ser falso,explique por qué.
+
+a) Un algoritmo es un procedimiento para resolver un problema en términos de lasacciones a ejecutar y el orden
+en el que lo hacen. V
+
+b) Un conjunto de instrucciones contenidas dentro de un par d eparéntesis se denomin bloque. Falso, el bloque se encuentra entre un cojunto de llaves
+
+c) Una instrucción de selección especifica que una acción se repetirá, mientras cierta condición siga siendo ver­
+dadera. falso, es una instrucción de repetición repeteición
+
+d) Una instrucción de control  anidada aparece en el cuerpo de otra instrucción decontrol. verdadero
+
+e) Java cuenta con los operadores de asignación compuestos aritméticos +=, *=, /=, -=, %= para abreviar las
+expresiones de asignación.  Verdadero
+
+f) Los tipos primitivos (boolean, char, byte, short, int, long, float y double)son portables sólo en las plata­
+formas Windows.
+
+g) Alprocesodeespecificarelordenenelqueseejecutanlasinstruccionesenunprogramasedenominacontrol
+del programa.
+
+h) Eloperadordeconversióndetiposunario(double)creaunacopiaenteratemporaldesuoperando.
+
+0 Las variables de instancia de tipo bool ean reciben el valor t r u e de manera predeterminada,
+
+j) El seudocódigo ayuda a un programadora idear un programa, antes de tratar de escribirlo en un lenguaje de programación
+
+4.3 EscribacuatroinstruccionesdistintasenJava,endondecadaunasume1alavariableenterax.
+
+4.4 EscribainstruccionesenJavapararealizarcadaunadelassiguientestareas:
+
+a) Usar una instrucción para asignar la suma de x e y a z, e incrementar x en 1después del cálculo.
+
+b) Evaluarsilavariablecuentaesmayorque10.Deserasí,imprimir"Cuenta esmayorque 10”.
+
+c) Usarunainstrucciónparadecrementarlavariablexen1,luegorestarlaalavariabletotalyalmacenarelresul­
+tadoenlavariabletotal.
+
+d) Calcularelresiduodespuésdedividirqentredivisor,yasignarelresultadoaq.Escribaestainstruccióndedos
+maneras distintas.
+
+4.5 EscribaunainstrucciónenJavapararealizarcadaunadelassiguientestareas: 
+
+a) Declararlasvariablessumayxcomodetipo int.
+
+b) Asignar1alavariablex.
+
+c) Asignar 0 a la variable suma.
+
+d) Sumar la variable x a suma y asignar el resultado a la variable suma.
+
+e) Imprimirlacadena"La suma es: ”,seguidadelvalordelavariablesuma
+
+4.6 Combinelasinstruccionesqueescribióenelejercicio4.5paraformarunaaplicaciónenJavaquecalculeeimprima lasumadelosenterosdel1al10.Useunainstrucciónwhileparaiteraratravésdelasinstruccionesdecálculoeincremen­ to. El ciclo debe terminar cuando el valorde x se vuelva 11.
+
+4 .7 Determine el valor de las variables en la instrucción producto *- x++;, después de realizar el cálculo. Suponga que todas las variables son de tipo i nt y tienen el valor 5.
+
+4.8 Identifiqueycorrijaloserroresencadaunodelossiguientesconjuntosdecódigo:
+
+
+a) while(c<=5)
+	{
+		producto *=c;
+		++c;
+
+b)  if (genero == 1)
+  		System, out. pri ntl n( "Mujer” );
+	else;
+		System.out.println( "Hombre” );
+
+4.9. ¿Qué está mal en la siguiente instrucción while?
+while (z>=0)
+	suma += z;
+
+
+
+
+
+
+
+
+
+
+
+
+
