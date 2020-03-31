@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Exercise_4_18Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-30T20:15:47" hostname="Momos-MacBook-Pro.local" time="0.002">
+<testsuite name="Exercise_4_18Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-31T22:29:40" hostname="Momos-MacBook-Pro.local" time="0.002">
   <properties/>
-  <testcase name="testClientCreation" classname="Exercise_4_18Tests" time="0.002"/>
+  <testcase name="testCreditLimiteExceeded" classname="Exercise_4_18Tests" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
