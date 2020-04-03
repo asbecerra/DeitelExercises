@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Exercise_4_18Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-31T22:29:40" hostname="Momos-MacBook-Pro.local" time="0.002">
+<testsuite name="Exercise_4_18Tests" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-04-03T15:43:22" hostname="Momos-MacBook-Pro.local" time="0.005">
   <properties/>
-  <testcase name="testCreditLimiteExceeded" classname="Exercise_4_18Tests" time="0.002"/>
+  <testcase name="testTotalCredits" classname="Exercise_4_18Tests" time="0.003"/>
+  <testcase name="testCreditLimit" classname="Exercise_4_18Tests" time="0.0"/>
+  <testcase name="testNewAmount" classname="Exercise_4_18Tests" time="0.0"/>
+  <testcase name="testCreditLimiteExceeded" classname="Exercise_4_18Tests" time="0.0"/>
+  <testcase name="testClientCreation" classname="Exercise_4_18Tests" time="0.0"/>
+  <testcase name="testClientPayment" classname="Exercise_4_18Tests" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
